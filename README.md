@@ -36,12 +36,14 @@ config.js
 ➣daftar percakapan
 
 ☞MODE:PUBLIK
+
 ☞POINT&LIMIT
 ➣.exchange
 ➣.claim
 ➣.me
 ➣.point
 ➣.profile
+
 ☞TOOLS
 ➣.emoji
 ➣.flat emoji
@@ -52,6 +54,7 @@ config.js
 ➣.s meme text|author
 ➣.swim pack|author
 ➣.take pake|author
+
 ☞TEXT
 ➣.fakta
 ➣.enquotes
@@ -61,6 +64,7 @@ config.js
 ➣.sindiran
 ➣.sinkronisasi
 ➣.saja
+
 ☞CONVERTER
 ➣.audio reply mp3
 ➣.you reply stiker
@@ -68,6 +72,7 @@ config.js
 ➣.pdf reply doc
 ➣.vidio reply gif
 ➣.vn reply vidio dan audio
+
 ☞DOWNLODER
 ➣.fb link/mp3
 ➣.qore query
@@ -84,6 +89,7 @@ config.js
 ➣.yt mp3 link
 ➣.yt mp4 link
 ➣.bodepa link
+
 ☞GRUP
 ➣.afk sesion reason
 ➣.contact @target
@@ -95,6 +101,7 @@ config.js
 ➣.steal @target
 ➣.wame @target
 ➣.other @target
+
 ☞MENU
 ➣clc expression
 ➣.expand short url
@@ -110,6 +117,7 @@ config.js
 ➣.upload reply doc
 ➣.yts query
 ➣.bodepa text
+
 ☞SPESIAL
 ➣.admin tools
 ➣.bot stat
