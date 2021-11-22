@@ -1,14 +1,3 @@
-- 👋 Hi, I’m @yobel-Elbotv3
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-yobel-Elbotv3/yobel-Elbotv3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 # SPESIAL GRUP
 
 ➣ Whatsapp Grup
@@ -211,4 +200,4 @@ You can click the Preview link to take a look at your changes.
 
 
 ➣☞Just Material For Study
-Coorporated by:@yobel-eLbotv3
+Coorporated by:@yobel-elbotv3
