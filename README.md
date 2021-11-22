@@ -9,41 +9,41 @@ yobel-Elbotv3/yobel-Elbotv3 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-🔗SPESIAL GRUP
+# SPESIAL GRUP
 
-➣Whatsapp Grup
+➣ Whatsapp Grup
 
-🔗RAILWAY
+# RAILWAY
 
-➣railway.app
+➣ railway.app
 
-🔗REST API
+# REST API
 
 ➣contact Number
 
-🔗FILE EDIT
+# FILE EDIT
 
 ➣the requiredvalue
  config.js
 
 ➣created a new account
 
-🔗T-MUX
+# T-MUX
 
 ➣github
 
 ➣SC
 
 
-🔗RDP/LINUX PROMPT
+# RDP/LINUX PROMPT
 
-☞LIST SESION
+☞ LIST SESION
 
 ➣daftar percakapan
 
 ☞MODE:PUBLIK
 
-☞POINT&LIMIT
+# POINT&LIMIT
 
 ➣.exchange
 
@@ -211,4 +211,4 @@ You can click the Preview link to take a look at your changes.
 
 
 ➣☞Just Material For Study
-Coorporated by:@yobel-ELbotv3
+Coorporated by:@yobel-eLbotv3
