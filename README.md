@@ -3,7 +3,9 @@
 
 # SPESIAL GRUP
 
-➣ Whatsapp Grup
+➣ whatsapp
+
+➣ instagram
 
 # RAILWAY
 
@@ -25,7 +27,6 @@
 ➣github
 
 ➣SC
-
 
 # RDP/LINUX PROMPT
 
