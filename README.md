@@ -28,6 +28,30 @@
 
 ➣SC
 
+> pkg update && pkg upgrade
+
+>pkg install git
+
+>pkg install nodejs
+
+>pkg install ffmpeg
+
+>pkg install imagemagick
+
+>git clone https://github.com/yobel-elbotv3
+
+>cd node.js.org
+
+>npm start
+
+>node index.js
+
+# RUN
+
+> bash install.sh
+
+> node index.js
+
 # RDP/LINUX PROMPT
 
 ☞ LIST SESION
@@ -204,4 +228,4 @@
 
 
 ➣☞Just Material For Study
-Coorporated by:@yobel-eLbotv3
+©Coorporated by:@yobel-eLbotv3
