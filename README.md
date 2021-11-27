@@ -1,8 +1,5 @@
 Assalamualaikum,Shalom,Omsantiyastu dan Salam kebajikan Sebelumnya Terima Kasih Kpd Teman²,Rekan²,Saudara² yang Telah Memberikan Supportnya kepada Saya untuk membuat Script ini Walaupun Sangat Sulit diucapkan Lewat Kata² dan Semoga kedepan nya busa lebih baik lagi dari Sebelumnya, serta Terima Kasih Untuk Semua yg telah menyempatkan diri tuk melihat dan menggunakan Script ini.Akhir kata Wassalamualaikum wr.wb,Shalom,Omsantiyastu fan Salam Kebajikan.
 
-
-
-
 # MATERIAL FOR TERMUX-SETUP-STORAGE
           simpel dan praktis
 
@@ -14,16 +11,20 @@ Assalamualaikum,Shalom,Omsantiyastu dan Salam kebajikan Sebelumnya Terima Kasih 
 
 # RAILWAY
 
-➣ railway.app
+➣ railway.app click here
+
+➣ Deploy on rail way click here
 
 # REST API
 
-➣contact Number
+➣ Deploy to heroku click here
 
 # FILE EDIT
 
 ➣the requiredvalue
- config.js
+ config.js click here
+
+➣ manggodb click here
 
 ➣created a new account
 
@@ -31,33 +32,47 @@ Assalamualaikum,Shalom,Omsantiyastu dan Salam kebajikan Sebelumnya Terima Kasih 
 
 ➣github
 
-➣SC
+➣SC WaBot
 
 > pkg update && pkg upgrade
 
->pkg install git
+> pkg install git
 
->pkg install nodejs
+> pkg install nodejs
 
->pkg install ffmpeg
+> pkg install ffmpeg
 
->pkg install imagemagick
+> pkg install imagemagick
 
->git clone https://github.com/yobel-elbotv3
+> git clone https://github.com/yobel78/wabot-elbotv3
 
->cd node.js.org
+> cd wabot yobel78/elbotv3
 
->npm start
+> npm install
 
->node index.js
+> npm start
 
 # RUN
 
 > bash install.sh
 
-> node index.js
+> node.
 
-# RDP/LINUX PROMPT
+# RDP/LINUX PROMPT/VPS/UPS
+
+➣ unduh dan install git clone click here
+
+➣ unduh dan install node.js click here
+
+➣ unduh dan install FFMPEG click here
+
+➣ unduh dan install imagemagick click here
+
+> git clone https://github.com/Yobel78/wabot-elbotv3
+
+> cd wabot yobel78/elbotv3
+
+> npm install
 
 ☞ LIST SESION
 
@@ -65,7 +80,7 @@ Assalamualaikum,Shalom,Omsantiyastu dan Salam kebajikan Sebelumnya Terima Kasih 
 
 ☞MODE:PUBLIK
 
-# POINT&LIMIT
+# POINT & LIMIT
 
 ➣.exchange
 
@@ -233,4 +248,4 @@ Assalamualaikum,Shalom,Omsantiyastu dan Salam kebajikan Sebelumnya Terima Kasih 
 
 
 ➣☞Just Material For Study
-©Coorporated by:@yobel-eLbotv3
+©Coorporated by:@yobel78/elbotv3
