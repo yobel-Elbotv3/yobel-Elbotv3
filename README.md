@@ -1,3 +1,8 @@
+Assalamualaikum,Shalom,Omsantiyastu dan Salam kebajikan Sebelumnya Terima Kasih Kpd Teman²,Rekan²,Saudara² yang Telah Memberikan Supportnya kepada Saya untuk membuat Script ini Walaupun Sangat Sulit diucapkan Lewat Kata² dan Semoga kedepan nya busa lebih baik lagi dari Sebelumnya, serta Terima Kasih Untuk Semua yg telah menyempatkan diri tuk melihat dan menggunakan Script ini.Akhir kata Wassalamualaikum wr.wb,Shalom,Omsantiyastu fan Salam Kebajikan.
+
+
+
+
 # MATERIAL FOR TERMUX-SETUP-STORAGE
           simpel dan praktis
 
